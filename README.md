@@ -19,13 +19,13 @@ Data Transformation:
 1. we have created the column by calculating occupancy percentage,i.e successful bookings/capacity
 
 Insights Generation:
-1.Average occupancy rate in each of room categories
-2.average occupancy rate per city.
-3.When was the occupancy better? Weekday or Weekend?
-4.In the month of June, what is the occupancy for different cities
-5.we have appended the new data of august using concat function.
-5.Revenue realized per city.
-6.Print month by month revenue.
-7.Pie chart for revenue realized per booking.
+1. Average occupancy rate in each of room categories
+2. average occupancy rate per city.
+3. When was the occupancy better? Weekday or Weekend?
+4. In the month of June, what is the occupancy for different cities
+5. we have appended the new data of august using concat function.
+5. Revenue realized per city.
+6. Print month by month revenue.
+7. Pie chart for revenue realized per booking.
 
 These insights are retrieved using merge , groupby functions of pandas.
